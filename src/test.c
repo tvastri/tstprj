@@ -3,6 +3,6 @@
 int
 main(int argc, char **argv)
 {
-    printf("This is the master branch\n");
+    printf("This is the branch br1\n");
     return 0;
 }
